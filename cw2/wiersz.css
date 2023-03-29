@@ -1,0 +1,67 @@
+.tytul1, .autor1, .tytul2, .autor2, .tytul3, .autor3 {
+    text-align: center;
+}
+
+#wiersz1 {
+    background-color:rgb(254, 237, 226);
+    text-align: center;
+}
+
+#wiersz2 {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#wiersz3 {
+    text-align: center;
+}
+
+#wiersz3 {
+    text-align: right;
+    margin-right: 45%;
+    background-color: rgb(253, 250, 215);
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 400px;
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 400px;
+}
+
+.img3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:active{
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color:blueviolet;
+}
